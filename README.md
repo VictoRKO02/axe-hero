@@ -37,8 +37,3 @@ O projeto foi idealizado por mim e por Matheus Sobral, utilizando hardware físi
 - Combo
 - Sons de acerto, erro, início e fim de jogo
 - Interface visual no LCD
-
-## Estrutura do projeto
-
-```text
-src/AxeHero.ino
